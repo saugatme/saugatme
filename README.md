@@ -15,7 +15,7 @@ Computer vision pipeline for extracting joint and segment angles from raw video 
 Scalable HPC pipeline for preprocessing liver cancer Whole Slide Images — tiling, background removal, and blur detection to filter high-quality tissue regions. Containerized with Apptainer for reproducibility.
 
 **[Healthcare Nanochat](https://github.com/saugatme/healthcare-nanochat)**
-Lightweight healthcare-focused conversational AI prototype.
+GPT-style medical chatbot trained from scratch on MedQuAD and MedDialog datasets. Custom BPE tokenizer, two-stage training pipeline (pretraining + fine-tuning), safety evaluation suite with 30 curated test cases, and SLURM/Bianca cluster support.
 
 ---
 
