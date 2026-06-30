@@ -8,10 +8,10 @@ Currently annotating medical imaging data at [Neko Health](https://www.nekohealt
 
 ## Projects
 
-**[Gait Analysis](https://github.com/saugatme/Gait-Analysis)**
+**[Gait Analysis](https://github.com/saugatme/gait-analysis)**
 Computer vision pipeline for extracting joint and segment angles from raw video — contour detection, cubic spline interpolation, and standardized gait phase breakdowns. No pose estimation library, just OpenCV and math.
 
-**[WSI Preprocessing](https://github.com/saugatme/WSI_Preprocessing)**
+**[WSI Preprocessing](https://github.com/saugatme/wsi-preprocess)**
 Scalable HPC pipeline for preprocessing liver cancer Whole Slide Images — tiling, background removal, and blur detection to filter high-quality tissue regions. Containerized with Apptainer for reproducibility.
 
 **[Healthcare Nanochat](https://github.com/saugatme/healthcare-nanochat)**
